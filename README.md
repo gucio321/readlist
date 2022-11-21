@@ -1,6 +1,6 @@
 # BOOKS I'LL READ
 
-- [ ] Elżbieta Cherezińska - Legion
+- [X] Elżbieta Cherezińska - Legion
 - [ ] Elżbieta Cherezińska - Byłam sekretarką Rumkowskiego
 - [ ] Alexandre Dumas - Trzecj muszkieterowie
 - [ ] Henryk Sienkiewicz - Krzyżacy
