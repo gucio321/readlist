@@ -12,7 +12,7 @@
 - [ ] Andrzej Sapkowski - Pani Jeziora
 - [ ] Andrzej Sapkowski - Sezon Burz
 - [ ] Viktor Hugo - Nędznicy
-- [ ] Jacek Dukaj - Katedra
+- [X] Jacek Dukaj - Katedra
 - [ ] Hanna Krall - Zdążyć przed Panem Bogiem
 - [ ] Juliusz Verne - Podróż do wnętrza ziemi
 - [ ] Alfred Szklarski - Tomek na Alasce
