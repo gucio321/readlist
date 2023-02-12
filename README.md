@@ -20,3 +20,4 @@
 - [ ] Ken Follett - Filary ziemi
 - [ ] George Orwell - Rok 1984
 - [ ] Henryk Moczarski - Rozmowy z katem
+- [ ] Alexandre Dumas - Chrabia Monte Christo
