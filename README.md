@@ -19,5 +19,5 @@
 - [ ] Erich Remarque - Na zachodzie bez zmian
 - [X] Ken Follett - Filary ziemi
 - [X] George Orwell - Rok 1984
-- [X] Henryk Moczarski - Rozmowy z katem
+- [X] Kazimierz Moczarski - Rozmowy z katem
 - [X] Alexandre Dumas - Chrabia Monte Christo
