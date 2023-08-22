@@ -20,4 +20,6 @@
 - [X] Ken Follett - Filary ziemi
 - [X] George Orwell - Rok 1984
 - [X] Henryk Moczarski - Rozmowy z katem
-- [X] M. Puzo - Ojciec Chrzestny
+- [X] Mario Puzo - Ojciec Chrzestny
+- [X] Kazimierz Moczarski - Rozmowy z katem
+- [X] Alexandre Dumas - Chrabia Monte Christo
