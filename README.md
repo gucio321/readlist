@@ -4,8 +4,8 @@
 - [ ] Elżbieta Cherezińska - Byłam sekretarką Rumkowskiego
 - [X] Alexandre Dumas - Trzecj muszkieterowie
 - [ ] Henryk Sienkiewicz - Krzyżacy
-- [ ] Jarosław Grzędowicz - Pan Lodowego Ogrodu
-- [ ] Andrzej Sapkowski - Krew Elfów
+- [X] Jarosław Grzędowicz - Pan Lodowego Ogrodu
+- [X] Andrzej Sapkowski - Krew Elfów
 - [ ] Andrzej Sapkowski - Czas pogardy
 - [ ] Andrzej Sapkowski - Chrzest ognia
 - [ ] Andrzej Sapkowski - Wieża jaskółki
@@ -17,6 +17,7 @@
 - [ ] Juliusz Verne - Podróż do wnętrza ziemi
 - [ ] Alfred Szklarski - Tomek na Alasce
 - [ ] Erich Remarque - Na zachodzie bez zmian
-- [ ] Ken Follett - Filary ziemi
-- [ ] George Orwell - Rok 1984
-- [ ] Henryk Moczarski - Rozmowy z katem
+- [X] Ken Follett - Filary ziemi
+- [X] George Orwell - Rok 1984
+- [X] Henryk Moczarski - Rozmowy z katem
+- [X] M. Puzo - Ojciec Chrzestny
