@@ -6,8 +6,8 @@
 - [ ] Henryk Sienkiewicz - Krzyżacy
 - [X] Jarosław Grzędowicz - Pan Lodowego Ogrodu
 - [X] Andrzej Sapkowski - Krew Elfów
-- [ ] Andrzej Sapkowski - Czas pogardy
-- [ ] Andrzej Sapkowski - Chrzest ognia
+- [X] Andrzej Sapkowski - Czas pogardy
+- [X] Andrzej Sapkowski - Chrzest ognia
 - [ ] Andrzej Sapkowski - Wieża jaskółki
 - [ ] Andrzej Sapkowski - Pani Jeziora
 - [ ] Andrzej Sapkowski - Sezon Burz
