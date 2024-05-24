@@ -8,8 +8,8 @@
 - [X] Andrzej Sapkowski - Krew Elfów
 - [X] Andrzej Sapkowski - Czas pogardy
 - [X] Andrzej Sapkowski - Chrzest ognia
-- [ ] Andrzej Sapkowski - Wieża jaskółki
-- [ ] Andrzej Sapkowski - Pani Jeziora
+- [X] Andrzej Sapkowski - Wieża jaskółki
+- [X] Andrzej Sapkowski - Pani Jeziora
 - [ ] Andrzej Sapkowski - Sezon Burz
 - [X] Viktor Hugo - Nędznicy
 - [X] Jacek Dukaj - Katedra
